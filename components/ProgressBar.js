@@ -16,7 +16,7 @@ export default function ProgressBar({ name, progress }) {
                     style={{
                         width: `${progress}%`,
                         height: "100%",
-                        backgroundColor: "#4caf50",
+                        backgroundColor: "#535151",
                         transition: "width 0.4s ease",
                     }}
                 ></div>
