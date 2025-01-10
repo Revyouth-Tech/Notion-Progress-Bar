@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/progress-equality",
+      "destination": "/"
+    }
+  ]
+}
