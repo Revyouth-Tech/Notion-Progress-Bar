@@ -14,6 +14,7 @@ export default function HomePage() {
               borderRadius: "5px",
               marginTop: "20px",
             }}
+
         >
           Go to Progress Bar Page
         </a>
