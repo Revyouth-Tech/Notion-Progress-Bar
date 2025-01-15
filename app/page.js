@@ -1,7 +1,7 @@
 export default function HomePage() {
   return (
       <div style={{ textAlign: "center", marginTop: "50px" }}>
-        <h1>Welcome to Progress Bar Equality</h1>
+        <h1>Welcome to Equality</h1>
         <p>Navigate to the Progress Bar page:</p>
         <a
             href="/progressbar-equality"
