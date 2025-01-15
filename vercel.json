@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/progress-equality",
+      "source": "/progressbar-equality",
       "destination": "/"
     }
   ]
